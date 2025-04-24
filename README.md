@@ -64,19 +64,6 @@ Upload CSV files to Databricks and load them into dataframes using PySpark.
 
 After completing the lab, terminate the Databricks cluster to free up resources.
 
-## File Structure
-
-```text
-📂 notebooks/
-🔝️ Transform data with Spark (to be created)
-📂 data/
-🔝️ 2019_edited.csv
-🔝️ 2020_edited.csv
-🔝️ 2021_edited.csv
-setup.ps1
-README.md
-```
-
 👤 Author >>  Sefa Öztürk
 
 IT Trainee | Azure Data Engineer in progress
