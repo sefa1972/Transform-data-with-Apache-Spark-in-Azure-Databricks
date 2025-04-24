@@ -64,7 +64,7 @@ Upload CSV files to Databricks and load them into dataframes using PySpark.
 
 After completing the lab, terminate the Databricks cluster to free up resources.
 
-👤 Author >>  Sefa Öztürk
+### 👤 Author >>  Sefa Öztürk
 
 IT Trainee | Azure Data Engineer in progress
 
